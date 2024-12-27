@@ -1,0 +1,19 @@
+{
+  "todos": {
+    "1": {
+      "description": "Kerjakan",
+      "due_date": "2024-12-30",
+      "priority": "high",
+      "title": "Mengerjakan Tugas IPA",
+      "user_id": "random"
+    }
+  },
+  "users": {
+    "DWLnH3o27OUFhwvcoLEYXTG8Qsk2": {
+      "email": "alulgans70@gmail.com",
+      "name": "Muhammad Khoyron Ahlaqul Firdaus",
+      "photo_profile": "image",
+      "username": "acode"
+    }
+  }
+}
