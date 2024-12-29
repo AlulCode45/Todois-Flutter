@@ -1,10 +1,10 @@
-class usersModel {
+class Users {
   String email;
   String name;
   String? photo_profile;
   String username;
 
-  usersModel({
+  Users({
     required this.email,
     required this.name,
     required this.username,
